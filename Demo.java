@@ -4,6 +4,9 @@ public class Demo {
 
 	public static void main(String[] args) 
 	{
-      System.out.println("Hello!!! in trhe world of git hub");
+               public void m1()
+               {
+               System.out.println("Hello!!! in trhe world of git hub");
+               }
       }
 }
